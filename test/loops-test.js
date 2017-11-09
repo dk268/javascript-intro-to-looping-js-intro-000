@@ -1,1 +1,1 @@
-expect win = 1;
+expect (win = 1);

@@ -7,6 +7,14 @@ function forLoop(loopTheory){
     loopTheory[i] = `I am ${i} strange loops.`;
     }
   }*/
+  loopTheory[0] = "I am 0 strange loops."
+  loopTheory[1] = "I am 1 strange loop."
+  var i;
+  for (i = 2; i < 25, i++){
+    loopTheory[i] = `I am ${i} strange loops.`
+  }
+
+  
   return loopTheory;
 }
 

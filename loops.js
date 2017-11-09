@@ -14,7 +14,7 @@ function forLoop(loopTheory){
     loopTheory[i] = `I am ${i} strange loops.`
   }
 
-  
+
   return loopTheory;
 }
 
